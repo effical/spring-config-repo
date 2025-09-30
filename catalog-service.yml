@@ -1,8 +1,8 @@
 spring:
   application:
     name: catalog-service
-  profiles:
+  /*profiles:
     active:
-    - dev
+    - dev*/
 server :
   port : 8081
